@@ -1,7 +1,7 @@
 # Sync Slack Premium Workflow Runs to Google Sheets
 
 
-A lightweight proof of concept that syncs premium workflow executions to Google Sheets with workflow metadata and colloborator information. Useful if you need more information beyond what is offered in the Slack Admin dashboard.
+A lightweight proof of concept that syncs premium workflow executions to Google Sheets with workflow metadata and colloborator information using the Slack API. Useful if you need more information beyond what is offered in the Slack Admin dashboard.
 
 ## Getting Started
 
